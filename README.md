@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaunchLee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in anime.
+- 🌱 I’m currently learning C++(more), HTML.
+- 💞️ I’m looking to collaborate on (Now Nothing)
 - 📫 To Reach me on [Telegram](https://t.me/launchlee)
 - ☯ I currently do nothing special.
 
