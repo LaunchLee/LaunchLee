@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++(more), HTML.
 - 💞️ I’m looking to collaborate on (Now Nothing).
 - 📫 To Reach me on [Telegram](https://t.me/launchlee).
-- ☯ I currently do nothing special.
+- ☯ I currently have schooling.
 
 <!---
 LaunchLee/LaunchLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
