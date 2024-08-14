@@ -4,7 +4,7 @@
 - 👓 I'm interested in anime.
 - 🚗 I'm mostly doing contributes for others' projects on my passing ways.
 - 📮 Though I'm not good at communication, to reach me at [email](mailto:lee2487596275@outlook.com).
-- 🏫  I'm currently in the last semester of my college.
+- 🏫 I'm currently living in society.
 
 ## Preferences
 
@@ -18,7 +18,7 @@
 | Text Editing | KDE kate, Notepad, Imhex, ~~Emacs(?)~~ |
 | Image Format Editing | imagemagick, ffmpeg, chafa |
 | Audio Format Editing | ffmpeg, shntool, CUE Splitter mid3v2, id3ted, MusicBrainz Piscard |
-| Video Format Editing | ffmpeg |
+| Video Format Editing | ffmpeg, handbrake |
 | Image Viewer | It depends, imageglass, eog, ~~Emacs(?)~~ |
 | Music Player | It depends, foobar2000, mpd with mympd or ncmpcpp, ~~Emacs(?)~~ |
 | Video Player | It depends, VLC, mpv |
@@ -33,7 +33,7 @@
 | Web Browser | It depends, Firefox, Microsoft Edge, Chrome |
 | Console Shell | It depends, bash, fish, powershell |
 | Console Terminal | It depends, Windows Terminal, putty, Konsole, Gnometerm, Termux |
-| Game Platform | RetroArch |
+| Game Platform | RetroArch, Dolphin Emulator |
 
 <!---
 LaunchLee/LaunchLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
