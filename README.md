@@ -8,31 +8,33 @@
 
 ## Preferences
 
+As optional as possible; As considerable as possible; As portable as possible.
+
 | Relates | Preferences |
 | :-----: | :---------- |
-| Linux Distributes | It depends, Debian, Arch Linux |
-| Software Managing | It depends, WingetUI, winget, scoop, apt, pacman |
-| File Managing | It depends, onecommander, nnn, mc, ~~Emacs(?)~~ |
-| Zip Managing | It depends, 7-zip, peazip |
-| Download Managing | It depends, aria2 with Motrix or Aria2App |
-| Text Editing | KDE kate, Notepad, Imhex, ~~Emacs(?)~~ |
-| Image Format Editing | imagemagick, ffmpeg, chafa |
-| Audio Format Editing | ffmpeg, shntool, CUE Splitter mid3v2, id3ted, MusicBrainz Piscard |
-| Video Format Editing | ffmpeg, handbrake |
-| Image Viewer | It depends, imageglass, eog, ~~Emacs(?)~~ |
-| Music Player | It depends, foobar2000, mpd with mympd or ncmpcpp, ~~Emacs(?)~~ |
-| Video Player | It depends, VLC, mpv |
-| Code Projecting | It depends, VScode, JetBrains Series, STM32CubeIDE, ~~Emacs(?)~~ |
-| Vector Drawing | draw.io, Inkscape, Pencil |
+| Linux Distributes | Debian, Arch Linux |
+| Software Managing | UniGetUI, WinGet, Scoop, APT, PacMan |
+| File Managing | Explorer, OneCommander, NNN, MC, KDE Dolphin |
+| Zip Managing | 7-zip, PeaZip |
+| Download Managing | Aria2, Transmission |
+| Text Editing | KDE Kate, Notepad, ImHex, Emacs |
+| Image Format Editing | imagemagick, FFmpeg, ChaFa |
+| Audio Format Editing | ffmpeg, SHNTool, CUE Splitter mid3v2, id3ted, MusicBrainz Piscard |
+| Video Format Editing | FFmpeg, handbrake |
+| Image Viewer | ImageGlass, EOG |
+| Music Player | FooBar2000, MPD, MPC, NCmpCpp, MyMPD |
+| Video Player | VLC, MPV |
+| Code Projecting | VScode, VS, JetBrains Series, STM32CubeIDE, Emacs |
+| Vector Drawing | draw.io, InkScape, Pencil |
 | Picture Drawing | Krita |
-| Picture Editing | It depends, GIMP |
+| Picture Editing | GIMP |
 | Audio Editing | Audacity, FamiStudio |
 | Video Editing | Kdenlive |
 | SQL Editing | SQLiteStudio, HeidiSQL |
 | Network Testing | MQTT X, Wireshark |
-| Web Browser | It depends, Firefox, Microsoft Edge, Chrome |
-| Console Shell | It depends, bash, fish, powershell |
-| Console Terminal | It depends, Windows Terminal, putty, Konsole, Gnometerm, Termux |
+| Web Browser | Firefox, Microsoft Edge, Chrome |
+| Console Shell | Bash, FishShell, PowerShell |
+| Console Terminal | Windows Terminal, PuTTY, Konsole, GnomeTerm, XTerm, Termux |
 | Game Platform | RetroArch, Dolphin Emulator |
 
 <!---
