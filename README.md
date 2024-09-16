@@ -14,24 +14,24 @@ As optional as possible; As considerable as possible; As portable as possible.
 | :-----: | :---------- |
 | Linux Distributes | Debian, Arch Linux |
 | Software Managing | UniGetUI, WinGet, Scoop, APT, PacMan |
-| File Managing | Explorer, OneCommander, NNN, MC, KDE Dolphin |
+| File Managing | Explorer, OneCommander, NNN, MC, KDE Dolphin, MiX |
 | Zip Managing | 7-zip, PeaZip |
-| Download Managing | Aria2, Transmission |
-| Text Editing | KDE Kate, Notepad, ImHex, Emacs |
-| Image Format Editing | imagemagick, FFmpeg, ChaFa |
-| Audio Format Editing | ffmpeg, SHNTool, CUE Splitter mid3v2, id3ted, MusicBrainz Piscard |
+| Download Managing | Aria2, Transmission, LibreTorrent |
+| Text Editing | KDE Kate, Notepad, ImHex, Emacs, Vim, Nano |
+| Image Format Editing | ImageMagick, FFmpeg, ChaFa |
+| Audio Format Editing | FFmpeg, SHNTool, CUE Splitter, MID3v2, ID3TEd, MusicBrainz Piscard |
 | Video Format Editing | FFmpeg, handbrake |
 | Image Viewer | ImageGlass, EOG |
 | Music Player | FooBar2000, MPD, MPC, NCmpCpp, MyMPD |
 | Video Player | VLC, MPV |
-| Code Projecting | VScode, VS, JetBrains Series, STM32CubeIDE, Emacs |
+| Code Projecting | VScode, VS, JetBrains Series, STM32CubeIDE, Emacs, ACode |
 | Vector Drawing | draw.io, InkScape, Pencil |
 | Picture Drawing | Krita |
 | Picture Editing | GIMP |
 | Audio Editing | Audacity, FamiStudio |
-| Video Editing | Kdenlive |
+| Video Editing | KDenLive |
 | SQL Editing | SQLiteStudio, HeidiSQL |
-| Network Testing | MQTT X, Wireshark |
+| Network Testing | MQTT X, WireShark |
 | Web Browser | Firefox, Microsoft Edge, Chrome |
 | Console Shell | Bash, FishShell, PowerShell |
 | Console Terminal | Windows Terminal, PuTTY, Konsole, GnomeTerm, XTerm, Termux |
